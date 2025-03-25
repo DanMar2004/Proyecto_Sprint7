@@ -1,5 +1,5 @@
-# Proyecto7
-Proyecto de Sprint 7 Tripleten
+# Proyecto Sprint 7 Tripleten
+
 Para el proyecto pondremos en practica diferentes competencias aprendidas en el sprint:
 - Creacion de repositirio en GitHub
 - Desplegar el codigo de python en Render
